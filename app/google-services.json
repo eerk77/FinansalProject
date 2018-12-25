@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "81437861924",
+    "firebase_url": "https://bilet-all.firebaseio.com",
+    "project_id": "bilet-all",
+    "storage_bucket": "bilet-all.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81437861924:android:9e239c8cf96d60ab",
+        "android_client_info": {
+          "package_name": "com.biletaluygulamasi.bilet_al"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81437861924-dtk6bst8miagbb3f1qj4ijdl23aev1eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biletaluygulama.bilet_al",
+            "certificate_hash": "1bcba57c2573d76ced1704011627cb047a02ec5f"
+          }
+        },
+        {
+          "client_id": "81437861924-3fj3efkpcbp5j46smdlglfb870f2293r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BHuWVKp8WZ2XEzzcmWxUhNfcqvBFXE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81437861924-3fj3efkpcbp5j46smdlglfb870f2293r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81437861924:android:b8e342a336daba4f",
+        "android_client_info": {
+          "package_name": "com.samim.bilet__al"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81437861924-8vu2rd43h28pudbn1ba5opaefj2anmc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samim.bilet__al",
+            "certificate_hash": "1bcba57c2573d76ced1704011627cb047a02ec5f"
+          }
+        },
+        {
+          "client_id": "81437861924-3fj3efkpcbp5j46smdlglfb870f2293r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BHuWVKp8WZ2XEzzcmWxUhNfcqvBFXE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81437861924-3fj3efkpcbp5j46smdlglfb870f2293r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81437861924:android:352fda75c265c5e2",
+        "android_client_info": {
+          "package_name": "com.samim.bilet_al1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81437861924-6rhg34otmht3ubrpd8bnbc9ttt37o6q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samim.bilet_al1",
+            "certificate_hash": "1bcba57c2573d76ced1704011627cb047a02ec5f"
+          }
+        },
+        {
+          "client_id": "81437861924-3fj3efkpcbp5j46smdlglfb870f2293r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BHuWVKp8WZ2XEzzcmWxUhNfcqvBFXE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81437861924-3fj3efkpcbp5j46smdlglfb870f2293r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81437861924:android:f6db68e625956351",
+        "android_client_info": {
+          "package_name": "com.samim.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81437861924-3fj3efkpcbp5j46smdlglfb870f2293r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BHuWVKp8WZ2XEzzcmWxUhNfcqvBFXE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

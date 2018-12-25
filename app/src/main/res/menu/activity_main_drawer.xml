@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/otobus_bilet"
+            android:icon="@drawable/ic_bus"
+            android:title="Otobüs Bileti" />
+        <item
+            android:id="@+id/biletlerim"
+            android:icon="@drawable/ic_if_ticket_1608951"
+            android:title="Biletlerim" />
+        <item
+            android:id="@+id/hakkimizda"
+            android:icon="@drawable/ic_if_about_2639759"
+            android:title="Hakkımızda" />
+        <item
+            android:id="@+id/iletisim"
+            android:icon="@drawable/ic_if_contact_card_2639797"
+            android:title="İletişim" />
+
+    </group>
+
+
+</menu>

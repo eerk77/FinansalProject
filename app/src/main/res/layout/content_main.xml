@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.biletaluygulamasi.bilet_al.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+
+    <RelativeLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+
+        <Spinner
+            android:id="@+id/spinner_kalkis"
+            android:layout_width="359dp"
+            android:layout_height="62dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="20dp"
+            android:foregroundTint="@color/darkgray"
+            android:layout_marginRight="24dp"
+            android:layout_marginTop="91dp"
+            android:background="@android:drawable/spinner_background"
+            android:entries="@array/sehirler_kalkis"
+            android:visibility="visible" />
+
+        <Spinner
+            android:id="@+id/spinner_varis"
+            android:layout_width="359dp"
+            android:layout_height="62dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="24dp"
+            android:layout_marginTop="196dp"
+            android:background="@android:drawable/spinner_background"
+            android:entries="@array/sehirler_varis"
+            android:visibility="visible" />
+
+        <EditText
+            android:id="@+id/tarih_Sec"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/spinner_varis"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="36dp"
+            android:ems="10"
+            android:hint="Tarih "
+            android:inputType="date"
+            android:textAlignment="center"
+            android:textSize="25dp" />
+
+        <Button
+            android:id="@+id/button_arama"
+            android:layout_width="200dp"
+            android:layout_height="80dp"
+            android:layout_below="@+id/tarih_Sec"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="31dp"
+            android:background="@drawable/button"
+            android:text="Arama Yap" />
+
+
+    </RelativeLayout>
+
+
+    
+</RelativeLayout>
